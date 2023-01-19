@@ -2,7 +2,7 @@
 //  SettingsSwiftUIUITestsLaunchTests.swift
 //  SettingsSwiftUIUITests
 //
-//  Created by 앱지 Appg on 2023-01-19.
+//  Created by dwKang on 2023-01-19.
 //
 
 import XCTest
